@@ -14,6 +14,6 @@ class Greetings : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_greetings)
         val name=intent.getStringExtra(NAME_EXTRA)
-        textView2.text="Happy birthday \n$name!"
+        textView2.text="Happy birthday! dear \n$name!"
     }
 }
