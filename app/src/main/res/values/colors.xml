@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="red_pulm">#db5a6b</color>
+    <color name="Blue">	#0000FF</color>
 </resources>
